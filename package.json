@@ -7,11 +7,12 @@
     "test": "make test"
   },
   "dependencies": {
-    "jugglingdb": ">= 0.3.0",
-    "mysql": ">= 2.0.0-alpha3",
-    "should": "~3.0.1",
     "coffee-script": "~1.6.3",
-    "semicov": "~0.1.1-2"
+    "jugglingdb": ">= 0.3.0",
+    "lodash": "^2.4.1",
+    "mysql": ">= 2.0.0-alpha3",
+    "semicov": "~0.1.1-2",
+    "should": "~3.0.1"
   },
   "devDependencies": {
     "coffee-script": "latest",
